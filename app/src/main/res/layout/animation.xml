@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/tv_fade_in"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#ececec"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Fade In"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_fade_out"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Fade Out"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_cross_fadding"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#ececec"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Cross Fadding"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_blink"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Blink"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_zoom_in"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#ececec"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Zoom In"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_zoom_out"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Zoom Out"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_rotate"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#ececec"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Rotate"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_move"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Move"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_slide_up"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#ececec"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Slide Up"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_slide_down"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Slide Down"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_bounce"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#ececec"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Bounce"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_sequential"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Sequential"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/tv_together"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#ececec"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="Together"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+</ScrollView>

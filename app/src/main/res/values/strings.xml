@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Prectice Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading">Loding&#8230;</string>
+
+    <string name="email">Email</string>
+    <string name="hint_recipient">Recipients</string>
+    <string name="hint_subject">Subject</string>
+    <string name="hint_message">Message</string>
+    <string name="send">Send</string>
+    <string name="set_wallpaper">Set Wallpaper</string>
+    
+    <string name="aboutus">About us</string>
+    <string name="contactus">Contact us</string>
+    <string name="aboutus_str">Hi-Tech – Offshore Development Company \n\n
+Established in 2000 Hi-Tech is a company providing complete Information Technology Outsourcing (ITO) services to clients worldwide. We provide world-class offshore services that offer cutting-edge IT solutions to different industries, independent software vendors and technology segments. We have a proven track record and our endless pursuit towards developing and delivering perfect quality solutions has earned us a loyal clientele.</string>
+    
+    <string name="normal_view">Normal View</string>
+    <string name="satellite_view">Satellite View</string>
+    <string name="hybrid_view">Hybrid View</string>
+    <string name="terrain_view">Terrain View</string>
+    
+    <string name="btn_speak">Speak</string>
+    <string name="et_hint_speech">Text to speech</string>
+    
+    <string name="action_search">Search</string>
+    <string name="btn_save">Save</string> 
+	<string name="btn_retrive">Retrive</string>
+	<string name="btn_call_log">Call Log</string> 
+	<string name="btn_sms_log">SMS Log</string>
+    <string name="com.pubnub.publishKey" translatable="false">pub-c-30257806-d519-4544-86dc-0b0d07d3f97c</string>
+    <string name="com.pubnub.secretKey" translatable="false">sec-c-ZDczZWJkODEtN2ViZC00OThkLTk3ZTktOWNjNjk3YzNkYjE3</string>
+    <string name="com.pubnub.subscribeKey" translatable="false">sub-c-4fb2fc8e-fa7b-11e6-9f57-02ee2ddab7fe</string>
+    <string name="com.zendesk.sdk.url" translatable="false">https://fabric-mihirtrivediindianiccom.zendesk.com</string>
+    <string name="com.zendesk.sdk.identifier" translatable="false">2a7d4d282209f964d7ba28cfd605ceb3504103b2db022894</string>
+    <string name="com.zendesk.sdk.clientIdentifier" translatable="false">mobile_sdk_client_596601f480199a877699</string>
+</resources>

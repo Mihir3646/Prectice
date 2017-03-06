@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/normal_view"
+        android:alphabeticShortcut="a"
+        android:icon="@android:drawable/ic_menu_directions"
+        android:numericShortcut="1"
+        android:title="@string/normal_view"/>
+    <item
+        android:id="@+id/satellite_view"
+        android:alphabeticShortcut="c"
+        android:icon="@android:drawable/ic_menu_directions"
+        android:numericShortcut="2"
+        android:title="@string/satellite_view"/>
+    <item
+        android:id="@+id/hybrid_view"
+        android:alphabeticShortcut="a"
+        android:icon="@android:drawable/ic_menu_directions"
+        android:numericShortcut="1"
+        android:title="@string/hybrid_view"/>
+    <item
+        android:id="@+id/terrain_view"
+        android:alphabeticShortcut="c"
+        android:icon="@android:drawable/ic_menu_directions"
+        android:numericShortcut="2"
+        android:title="@string/terrain_view"/>
+</menu>
