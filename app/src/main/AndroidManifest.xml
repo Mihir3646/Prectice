@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest package="com.mihir.practice"
-          xmlns:android="http://schemas.android.com/apk/res/android"
-          android:versionCode="1"
-          android:versionName="1.0">
+<manifest
+    package="com.mihir.practice"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:versionCode="1"
+    android:versionName="1.0">
 
     <uses-permission android:name="android.permission.SET_WALLPAPER"/>
     <!-- Allow to connect with Internet -->
@@ -171,9 +172,9 @@
         <service android:name="com.mihir.practice.VibrateService"/>
 
         <!--<receiver android:name=".SmsReceiver">-->
-            <!--<intent-filter>-->
-                <!--<action android:name="android.provider.Telephony.SMS_RECEIVED"/>-->
-            <!--</intent-filter>-->
+        <!--<intent-filter>-->
+        <!--<action android:name="android.provider.Telephony.SMS_RECEIVED"/>-->
+        <!--</intent-filter>-->
         <!--</receiver>-->
         <receiver android:name="com.mihir.practice.CallReciever">
             <intent-filter>
@@ -184,7 +185,7 @@
         </receiver>
         <meta-data
             android:name="io.fabric.ApiKey"
-            android:value="c551c21f3a8e322e4eb7d69b3ab8a7e556219e66" />
+            android:value="c551c21f3a8e322e4eb7d69b3ab8a7e556219e66"/>
     </application>
 
 </manifest>
